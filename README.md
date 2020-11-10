@@ -2,20 +2,25 @@
 
 ### Content
 1) Project Overview
-2) Project Definition / Problem Statement
-3) Software and Libraries
-4) Files
-5) Results 
+2) Project Motivation
+3) Project Definition / Problem Statement
+4) Software and Libraries
+5) Files
+6) Results 
 
 
 ## Project Overview
   Sparkify Customer Churn Prediction is a project done as a part of Capstone Project in the Udacity's Data Scientist Nanodegree. The project aimed at solving a business problem related to identfying customers that are likely to churn using their activity data. It requires me to understand customer behavior pattern from last 2 months of data.
-  
+
+## Project Motivation
+  The motivation behind this project was to implement all the concepts learned throughout the data analytics and data science lectures, and solve a real-life problem/business case to built the understanding of how these concepts of data science can be applied to real life. I have tried to use the learnings to best of my knowledge. There can be variations in the result while taking a different approach to this problem solving. 
+
+
 ## Project Definition / Problem Statement
 Sparkify: It is a fictitious music app that has provided 2 months of the user behavior log data. The end-goal of this project was is to study customer behavior and predict the user churn and try to retain the user. The technologies used in this project include Python, SQL, PySpark, Machine Learning, Spark SQL, and many more. The main aspect was to predict the churn of users and prevent/regain the lost customers to get them back. The project also included data analysis and visualization, feature engineering, and model tuning
   
 ## Software and Libraries
-  For this project, I have used Python, Jupyter notebooks, Pandas, Numpy, Spark, PySpark, Seaborn, and Matplotlib. Many other machine learning libraries have also been used perform essential functions of the project.
+  For this project, I have used Python 3, Jupyter notebooks, Pandas, Numpy, Spark, PySpark, Seaborn, and Matplotlib. Many other machine learning libraries have also been used perform essential functions of the project. All the packages are updated and most recent ones are installed on my local machine.
   
   This project could have also been done using cloud services like AWS/IBM/GCP/Azure with full dataset and employing clusters.
   
